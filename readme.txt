@@ -1,9 +1,9 @@
-=== Really Simple CSV Importer ===
-Contributors: hissy
+=== Really Simple CSV Importer Ajax ===
+Contributors: hissy,subh2020
 Tags: importer, csv, acf, cfs, scf
 Requires at least: 3.6
 Tested up to: 4.3
-Stable tag: 1.3
+Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
